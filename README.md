@@ -1,5 +1,6 @@
 
 
+![Blueprint](images/blueprint.png)
 
 # Blueprints
 
@@ -8,7 +9,7 @@ or upgrade.  A blueprint contains a schema that defines what is going to be
 built, the dependency relationships between components in the blueprint, and
 external dependencies that need to be met before the blueprint can be built.
 
-## Blueprints have:
+### Blueprints have:
 
 * Type definitions of components
 * Dependencies between components
