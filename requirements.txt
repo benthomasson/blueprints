@@ -1,3 +1,6 @@
 pytest
 pyyaml
-
+jsonschema
+black
+isort
+flake8
