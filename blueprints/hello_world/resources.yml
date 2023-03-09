@@ -1,0 +1,6 @@
+---
+resources:
+  - name: Hello World
+    type: hello_world
+    msg: Hello World
+...
